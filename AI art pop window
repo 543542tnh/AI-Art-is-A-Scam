@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Introduction</title>
+<style>
+    @font-face {
+        font-family: Roboto;
+        src: url(https://fonts.google.com/specimen/Roboto);
+      }
+div {
+        font-family: Roboto;
+    }
+    </style>
+</head>
+        <body style="background-color:#d03424;">
+<h1>Introduction</h1>
+  <div
+text-align: justify;
+text-justify: inter-word;
+   >
+<p style="color: white">
+    In recent years artificial intelligence has become a key issue for the creative industry due to being seen as a threat to many designers and artists. (Aug 21, information and Leslie, 2023)
+<p style="color: white">
+    Many saw artificial intelligence as beneficial as it is effective and can mass-produce high-quality creative content giving designers and artists an easier time to focus on their jobs. (How Is AI Going to Change Graphic Design? | Paper Crane, no date) However, very few people realised the ethical issues and the damaging effect on the creative industries with their jobs and lives.(Babbs, 2023)
+<p style="color: white">
+    I viewed artificial intelligence art as a scam because many people are blinded by the benefits, failing to see the ill intentions behind those artificial intelligence art generators and the potential damage they caused to them and creative industries. This essay will attempt to highlight how artificial intelligence is a threat to the creative industries.
+<p style="color: white">
+    This essay will examine the definition of artificial intelligence and will show both sides of artificial intelligence art; benefits and drawbacks with case studies to show the points and potentials that could come out of artificial intelligence. In conclusion, it will aim to answer the biggest question, is artificial intelligence art truly a scam?
+    </p>
+    </div>
+        </body>
+</html>
