@@ -1,3 +1,9 @@
+@font-face
+{
+  font-family: 'Minecraft';
+  src: url('Minecraft.ttf') format('truetype');
+}
+
 body {
   margin: 0px;
   font-family: 'Roboto', sans-serif;
@@ -9,7 +15,6 @@ body {
   background-color: #382c44;
   color: white;
   font-family: Minecraft;
-  src: url("Minecraft.ttf");
   font-size: 40px;
   padding-top: 20px;
   text-align: center;
