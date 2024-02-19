@@ -8,8 +8,8 @@ body {
   width: 100%;
   background-color: #382c44;
   color: white;
-  font-family: 'Minecraft';
-  src: url("Minecraft.ttf") format('truetype');
+  font-family: Minecraft;
+  src: url("Minecraft.ttf");
   font-size: 40px;
   padding-top: 20px;
   text-align: center;
